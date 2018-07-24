@@ -1,6 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
 body,
 td,
 th,
@@ -219,7 +218,7 @@ label {
   min-width: 100%;
 }
 
-#restaurants-list li h1 {
+#restaurants-list li h3 {
   color: #f18200;
   font-family: Arial, sans-serif;
   font-size: 14pt;
